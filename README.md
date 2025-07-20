@@ -27,23 +27,6 @@ This project detects emotions from either text or image input using machine lear
 
 ---
 
-## 📁 Project Structure
-
-```
-emotion-detection/
-│
-├── data/                  # Dataset files
-├── models/                # Trained ML/DL models
-├── static/                # CSS, image files (if using Flask)
-├── templates/             # HTML templates (if using Flask)
-├── app.py                 # Main application script
-├── train_model.py         # Script to train the model
-├── predict.py             # Emotion prediction logic
-├── requirements.txt       # List of dependencies
-└── README.md              # Project documentation
-```
-
----
 
 ## ⚙️ Installation
 
@@ -89,12 +72,6 @@ emotion-detection/
 - Real-time emotion detection using webcam
 - Audio/speech-based emotion classification
 - Deploy to the cloud (e.g., Heroku, Render, or AWS)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
